@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549441Z
+addr = 0x88c80
+size = 0x161
+name = "CNetworkGameClientBase_ProcessCmdKeyValues"
+type = "char"
+
+[header]
+name = "CNetworkGameClientBase_ProcessCmdKeyValues"
+addr = 0x88c80
+type = "char"
+
+[header.args]

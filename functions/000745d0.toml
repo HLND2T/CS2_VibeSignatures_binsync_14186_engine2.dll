@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549395Z
+addr = 0x745d0
+size = 0x12
+name = "CEngineServer_ShowFrameTimeReport"
+type = "double"
+
+[header]
+name = "CEngineServer_ShowFrameTimeReport"
+addr = 0x745d0
+type = "double"
+
+[header.args]

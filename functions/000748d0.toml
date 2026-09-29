@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549403Z
+addr = 0x748d0
+size = 0x174
+name = "CEngineClient_ClientCmd_Unrestricted"
+type = "void"
+
+[header]
+name = "CEngineClient_ClientCmd_Unrestricted"
+addr = 0x748d0
+type = "void"
+
+[header.args]

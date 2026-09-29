@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:41.976405Z
+addr = 0x211100
+size = 0x158
+name = "CEngineServiceMgr_SwitchToLoop"
+type = "long long"
+
+[header]
+name = "CEngineServiceMgr_SwitchToLoop"
+addr = 0x211100
+type = "long long"
+
+[header.args]

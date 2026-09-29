@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:41.073348Z
+addr = 0xfc290
+size = 0x257
+name = "CBaseSpawnGroup_GetEntityPrerequisites"
+type = "char"
+
+[header]
+name = "CBaseSpawnGroup_GetEntityPrerequisites"
+addr = 0xfc290
+type = "char"
+
+[header.args]

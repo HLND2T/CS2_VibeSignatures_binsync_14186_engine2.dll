@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549412Z
+addr = 0x750c0
+size = 0x1b
+name = "CEngineClient_IsPlayingDemo"
+type = "char"
+
+[header]
+name = "CEngineClient_IsPlayingDemo"
+addr = 0x750c0
+type = "char"
+
+[header.args]

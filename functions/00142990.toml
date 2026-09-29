@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:41.176834Z
+addr = 0x142990
+size = 0x20b
+name = "CPanoramaEngineHandler_OnClientPreOutput"
+type = "void"
+
+[header]
+name = "CPanoramaEngineHandler_OnClientPreOutput"
+addr = 0x142990
+type = "void"
+
+[header.args]

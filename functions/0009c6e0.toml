@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549459Z
+addr = 0x9c6e0
+size = 0x1e3
+name = "CNetworkGameServer_IsPausable"
+type = "bool"
+
+[header]
+name = "CNetworkGameServer_IsPausable"
+addr = 0x9c6e0
+type = "bool"
+
+[header.args]

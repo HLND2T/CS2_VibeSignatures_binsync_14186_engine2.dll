@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:41.748632Z
+addr = 0x1e0bc0
+size = 0x15e
+name = "CNetworkServerService_OnServerPostSimulate"
+type = "long long"
+
+[header]
+name = "CNetworkServerService_OnServerPostSimulate"
+addr = 0x1e0bc0
+type = "long long"
+
+[header.args]

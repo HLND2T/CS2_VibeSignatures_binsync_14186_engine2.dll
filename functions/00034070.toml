@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:39.626302Z
+addr = 0x34070
+size = 0x12e
+name = "CDemoPlayer_Pause"
+type = "void"
+
+[header]
+name = "CDemoPlayer_Pause"
+addr = 0x34070
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-09-29T14:51:37.549662Z
+addr = 0xd2530
+size = 0xfe2
+name = "CNetworkGameServerBase_WriteDeltaEntities"
+type = "char"
+
+[header]
+name = "CNetworkGameServerBase_WriteDeltaEntities"
+addr = 0xd2530
+type = "char"
+
+[header.args]
